@@ -1,13 +1,13 @@
-package com.example.camundaservice;
+package name.legkodymov.workers.camundaservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class CamundaServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(CamundaServiceApplication.class, args);
 	}
 
 }
